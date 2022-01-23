@@ -15,7 +15,7 @@ const initialState = {
   ],
   date: moment(),
   to: '',
-  currency: 'INR',
+  currency: 'PKR',
   number: '',
   tax: 12,
   tax_title: 'CGST+IGST',
